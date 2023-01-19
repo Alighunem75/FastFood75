@@ -2,4 +2,4 @@
 
 
 
-Click to visit website:https://github.com/Alighunem75/FastFood75.git
+Click to visit website:https://alighunem75.github.io/FastFood75/
